@@ -1,14 +1,13 @@
 
 <div align="center">
   
-### Hi there 👋
+### Hi There 👋
 
-<a href="https://companies.intra.42.fr/resumes/jchoi" target="_blank"><img src="https://img.shields.io/badge/42Seoul-9CBEFF?style=for-the-badge&logo=42&logoColor=000000"/></a>
-<a href="https://cv.42.fr/o2TQYBA-" target="_blank"><img src="https://img.shields.io/badge/Notion-9CBEFF?style=for-the-badge&logo=notion&logoColor=000000"/></a>
+<a href="https://cv.42.fr/BJc3XY41" target="_blank"><img src="https://img.shields.io/badge/42Seoul-30C2BA?style=for-the-badge&logo=42&logoColor=FFFFFF"/></a>
+<a href="https://cv.42.fr/BJc3XY41" target="_blank"><img src="https://img.shields.io/badge/Notion-30C2BA?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&theme=transparent)
-
 </div>
 
 
