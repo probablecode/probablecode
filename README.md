@@ -4,7 +4,7 @@
 ### Hi There 👋
 
 <a href="https://cv.42.fr/BJc3XY41" target="_blank"><img src="https://img.shields.io/badge/42Seoul-30C2BA?style=for-the-badge&logo=42&logoColor=FFFFFF"/></a>
-<a href="https://cv.42.fr/BJc3XY41" target="_blank"><img src="https://img.shields.io/badge/Notion-30C2BA?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<!--<a href="https://cv.42.fr/BJc3XY41" target="_blank"><img src="https://img.shields.io/badge/Notion-30C2BA?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>-->
 
  
 </div >
