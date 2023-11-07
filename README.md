@@ -10,7 +10,7 @@
 </div >
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222" style="width: 45%;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&theme=transparent" style="width: 40%;" />
+
 </div>
 
 
