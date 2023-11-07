@@ -7,16 +7,14 @@
 <!--<a href="https://cv.42.fr/BJc3XY41" target="_blank"><img src="https://img.shields.io/badge/Notion-30C2BA?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>-->
 
  
-</div >
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222" style="width: 45%;" />
+  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&ttheme=transparent)
+ 
 </div>
-
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=donut&theme=transparent)
--->
+</div >
 
 <!--
 **probablecode/probablecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
