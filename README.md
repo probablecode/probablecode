@@ -12,13 +12,15 @@ I'm jchoi,<br>studying computer in 42Seoul<br>(2021.11.15 ~)<br>
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&ttheme=transparent)
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222&rank_icon=github)
+
 </div>
+
 </div >
 
-<!--
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&ttheme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=donut&ttheme=transparent)
+
 **probablecode/probablecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
