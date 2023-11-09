@@ -13,7 +13,7 @@ I'm jchoi,<br>studying computer in 42Seoul<br>(2021.11.15 ~)<br>
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=donut&ttheme=transparent&count-private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=donut&ttheme=transparent&count_private=true)
 </div>
 
 </div >
