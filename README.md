@@ -13,12 +13,15 @@ I'm jchoi,<br>studying computer in 42Seoul<br>(2021.11.15 ~)<br>
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablecode&show_icons=true&theme=transparent&bg_color=40,30C2BA,FFFFFF&text_color=222222&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&theme=transparent&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&ttheme=transparent)
+
 </div>
 
 </div >
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&ttheme=transparent)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=donut&ttheme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=compact&theme=transparent&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablecode&layout=donut&ttheme=transparent)
 
 **probablecode/probablecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
